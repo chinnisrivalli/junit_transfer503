@@ -75,14 +75,7 @@
   <artifactId>testng</artifactId>
   <version>6.9.10</version>
 </plugin>
-                    <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <configuration>    
-                  <skipTests>${skip.tests}</skipTests>    
-                </configuration>
-                <version>2.10</version>
-            </plugin>           
+                          
             <plugin>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
