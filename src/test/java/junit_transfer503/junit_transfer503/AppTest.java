@@ -3,7 +3,6 @@ package junit_transfer503.junit_transfer503;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import jacoco.jacoco_transfer503.App;
 
 /**
  * Unit test for simple App.
