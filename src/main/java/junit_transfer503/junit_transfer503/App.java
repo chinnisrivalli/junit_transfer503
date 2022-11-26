@@ -8,7 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.prntln( "welcome to devops lab" );
+        System.out.println( "welcome to devops lab" );
+        
     }
     public int add(int a,int b)
     {
